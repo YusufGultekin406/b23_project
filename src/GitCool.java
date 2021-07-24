@@ -10,4 +10,6 @@ public class GitCool {
     // created a link between local repo and remote repo
     // push local commits to remote repo
 
+    // testing if automatically pushes to github
+
 }
