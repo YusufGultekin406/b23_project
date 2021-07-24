@@ -12,4 +12,6 @@ public class GitCool {
 
     // testing if automatically pushes to github
 
+    // testing commit and push button
+
 }
